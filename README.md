@@ -1,2 +1,5 @@
-# SICP
- Structure and Interpretation of Computer Programs
+# SICP - Structure and Interpretation of Computer Programs
+----------
+Estudos baseados no SICP
+
+

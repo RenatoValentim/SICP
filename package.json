@@ -1,0 +1,29 @@
+{
+  "name": "SICP",
+  "version": "1.0.0",
+  "description": "---------- Estudos baseados no SICP",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon ./src/main.ts",
+    "commit": "cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenatoValentim/SICP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RenatoValentim/SICP/issues"
+  },
+  "homepage": "https://github.com/RenatoValentim/SICP#readme",
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
